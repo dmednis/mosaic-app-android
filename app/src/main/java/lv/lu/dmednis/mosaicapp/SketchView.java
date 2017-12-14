@@ -1,4 +1,4 @@
-package lv.lu.dmednis.oopandroid;
+package lv.lu.dmednis.mosaicapp;
 
 import android.content.Context;
 import android.graphics.Bitmap;

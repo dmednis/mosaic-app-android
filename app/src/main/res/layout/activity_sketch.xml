@@ -4,11 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="lv.lu.dmednis.oopandroid.SketchActivity">
+    tools:context="lv.lu.dmednis.mosaicapp.SketchActivity">
 
     <view
         android:id="@+id/sketchview"
-        class="lv.lu.dmednis.oopandroid.SketchView"
+        class="lv.lu.dmednis.mosaicapp.SketchView"
         id="@+id/view"
         android:layout_width="200dp"
         android:layout_height="200dp"

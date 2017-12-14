@@ -1,4 +1,4 @@
-package lv.lu.dmednis.oopandroid;
+package lv.lu.dmednis.mosaicapp;
 
 import org.junit.Test;
 

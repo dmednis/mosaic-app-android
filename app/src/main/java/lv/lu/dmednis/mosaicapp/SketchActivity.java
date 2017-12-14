@@ -1,9 +1,8 @@
-package lv.lu.dmednis.oopandroid;
+package lv.lu.dmednis.mosaicapp;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 
 public class SketchActivity extends AppCompatActivity {
