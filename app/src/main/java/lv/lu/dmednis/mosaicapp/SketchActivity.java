@@ -18,7 +18,7 @@ public class SketchActivity extends AppCompatActivity {
 
     public void onGenerateClick(View view) {
         Intent intent = new Intent(this, MosaicActivity.class);
-        intent.putExtra("sketch", mSketchView.getResizedBitmap(200, 200));
+        intent.putExtra("sketch", mSketchView.getResizedBitmap(192, 192));
         startActivityForResult(intent, 1);
     }
 
