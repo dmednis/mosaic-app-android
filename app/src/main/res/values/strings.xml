@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mosaic App</string>
+    <string name="button_sketch">Sketch</string>
+    <string name="button_generate">Generate</string>
+    <string name="button_reset">Start over</string>
+    <string name="sketch_text">Draw your doodle</string>
+</resources>

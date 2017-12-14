@@ -1,0 +1,4 @@
+<resources>
+    <declare-styleable name="SketchView">
+    </declare-styleable>
+</resources>
